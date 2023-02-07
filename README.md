@@ -1,1 +1,1 @@
-# Rapi Recorder
+# Rapi - Fast Web Testing Recorder
