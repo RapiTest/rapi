@@ -10,7 +10,7 @@ Rapi Recorder is a Chrome/Edge extension. Install it on Chrome Web Store.
 2. Click the ![](https://i.imgur.com/rdPmd9i.png) button to start recording your mouse and keyboard operations.
 3. Click the ![](https://i.imgur.com/OawkKO0.png) button to playback the recorded commands.
 
-![](https://i.imgur.com/Q4uzuIn.png)
+![](https://i.imgur.com/1swo0Vh.png)
 
 
 # User Guide
