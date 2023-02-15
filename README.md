@@ -30,7 +30,7 @@ The souce code of Rapi 2 (SideeX 2) can be found [here](https://github.com/Sidee
 Report an issue via [Github Issues](https://github.com/RapiTest/rapi/issues) or email rapitest.service@gmail.com. Contact the project lead Prof. [Shin-Jie Lee](https://www.csie.ncku.edu.tw/en/members/3) via jielee@mail.ncku.edu.tw. 
 
 # Update
-- **2023.02.07** - SideeX is renamed to Rapi. Rapi 4.0.0 has been released on Chrome Web Store. SideeX Launcher has been deprecated.
+- **2023.02.07** - SideeX is renamed to Rapi. SideeX Launcher has been deprecated.
 - **2022.09.14** - SideeX 3.7.4 has been released. Some bug fixes.
 - **2022.05.13** - SideeX 3.7.3 has been released. Some bug fixes.
 - **2022.04.13** - SideeX 3.7.2 has been released. Support adding Test Suites, Global Variable, Data Driven by drag and drop. Support Remote Sync Support from Github and GitLab. Hover Sensitivity has been added to SideeX panel. Updated report UI. Support adding description to Test Suites, Test Cases, Commands. Some bug fixes.
