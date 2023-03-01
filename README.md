@@ -14,7 +14,7 @@ Rapi Recorder is a Chrome/Edge extension. Install it on Chrome Web Store via [he
 
 
 # User Guide
-Coming soon.
+[Rapi User Guide](https://hackmd.io/@Rapi/book)
 
 
 # Rapi Runner
