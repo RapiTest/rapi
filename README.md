@@ -109,6 +109,12 @@ Report an issue via [Github Issues](https://github.com/RapiTest/rapi/issues) or 
 - Jing-Sian Chen
 - Steven Lee
 - Ti-Mo Lin
+- Kuan-Liang Kuo
+- Fan-Yun Tsai
+- Shih-Sheng Yang
+- Kuan-Wei Chiu
+- Yung-En Lu
+- Shwu-Fen Kuo
 
 **Visual Designer**
 - Chin-Fong Tsai
