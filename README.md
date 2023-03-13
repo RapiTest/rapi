@@ -59,3 +59,58 @@ Report an issue via [Github Issues](https://github.com/RapiTest/rapi/issues) or 
 - **2016.12.15** - SideeX 0.8.0 has been released. 7 new automation features are added. The existing automation features are also enhanced. See the change log.
 - **2016.10.22** - SideeX 0.7.1 has been released. See the change log.
 
+# Contributors
+**Project Lead**
+- Shin-Jie Lee
+
+**Lead Committer**
+- Yun-Wen Lin
+- Fong-Yi Huang
+- Han-Hsuan Tsai
+
+**Core Committer**
+- Chi-En Huang
+- Jie-Lin You
+- I Lin
+- Ming-Hung Hsu
+- I-Fan Wu
+- Ru-Kam Lee
+- Kuan-Hsun Huang
+- Wai-Keung Lee
+- Yi-Chen Chen
+- Chia-Yu Lin
+- Ching-Yu Tung
+- Yi-Ju Cho
+- Jun-Nian Lo
+
+**Committer**
+- Chen-Chieh Ping
+- Shuo-Heng Shih
+- Syuan-Yi Lin
+- Yu-Xian Chen
+- De-Yang Hong
+- Ming-Hsuan Hsieh
+- Shih-Chi Lin
+- Shao-Ming Lee
+- Wei-Ting Xu
+- Ming-Hsiu Tsai
+- Ssu-Chi Chen
+- Cheng-Wei Lin
+- Sheng-Zhong Wang
+- Tsai-Wei Lin
+- Yen-Fu Chen
+- Pin-Han Lin
+- Yin-Tung Chen
+- Chen-Chen Ku
+- Chun-Yuan Hsu
+- John Liu
+- Mu En Huang
+- Jim Hsu
+- Jing-Sian Chen
+- Steven Lee
+- Ti-Mo Lin
+
+**Visual Designer**
+- Chin-Fong Tsai
+- Xi-Jing Chang
+- Yi-Chi Huang
